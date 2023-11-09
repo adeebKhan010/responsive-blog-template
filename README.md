@@ -1,0 +1,1 @@
+This is a fully responsive blog template made with pure HTML and CSS. The blog template is intuitive and eye-catching. At the same time it is responsive on all sorts of modern devices. It is a multi-page website consisting of pages such as contact, about, search and blog. 
